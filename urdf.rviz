@@ -61,7 +61,7 @@ Visualization Manager:
       Value: true
       Visual Enabled: true
     - Class: rviz/TF
-      Enabled: true
+      Enabled: false
       Frame Timeout: 15
       Frames:
         All Enabled: true
@@ -97,11 +97,11 @@ Visualization Manager:
   Views:
     Current:
       Class: rviz/Orbit
-      Distance: 10
+      Distance: 3
       Focal Point:
-        X: 0
-        Y: 0
-        Z: 0
+        X: -0.34738
+        Y: -0.28926
+        Z: 0.88377
       Name: Current View
       Near Clip Distance: 0.01
       Pitch: 0.465398
